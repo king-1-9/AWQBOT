@@ -5,7 +5,7 @@ import requests
 from database import get_db_general_rtb
 from utils import get_restarted
 
-super_sudoers = [6250435647]
+super_sudoers = [5145609515]
 
 
 ####################################################################################
